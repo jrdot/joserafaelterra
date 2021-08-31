@@ -1,6 +1,6 @@
 Hi, I’m @joserafaelterra 👋
 
-You can access my projects on the website https://gitlab.com/joserafaelterra w
+You can access my projects on the website https://gitlab.com/joserafaelterra
 
 <!---
 joserafaelterra/joserafaelterra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
